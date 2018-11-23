@@ -1,0 +1,51 @@
+body{
+  padding: 12px;
+  /* border: 2px solid black; */
+  color: blue;
+    
+}
+h2{
+  text-align: center;
+}
+
+p{
+  padding: 10px;
+}
+
+#top{
+  margin:  12px;
+  border: 2px solid black;
+    
+}
+
+#container{
+  margin:  12px;
+  border: 2px solid black;
+}
+
+.info{
+  border-bottom: 1px dashed black; 
+  height: 150px;
+}
+
+.subtitle{
+  padding: 6px;
+  font-weight: bolder;
+  text-align: left;
+}
+
+input{
+  padding: -3px;
+  margin:12px;
+    
+}
+table{
+  margin:  12px;
+  text-align: center;
+}
+
+form{
+  text-align: center;
+}
+
+
